@@ -1,6 +1,6 @@
 # animatedTorchRegressor
 
-The below code perform an animated fit of a random function using a pyTorch fully connected network. 
+The below code performs an animated fit of a random function using a pyTorch fully connected network. 
 ```
 python animatedRegressor.py
 ```
